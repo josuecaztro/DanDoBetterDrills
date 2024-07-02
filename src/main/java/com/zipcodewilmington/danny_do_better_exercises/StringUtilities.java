@@ -101,5 +101,7 @@ public class StringUtilities {
         //and add its to the beginning you add the rest of the string as you go
         //its confusing but i kinda get it and hey it works. easy algorithm
         //for future reference
+        //THIS IS NEAT. a little confusing at first but now I get it
+        //it takes advantage of string concatenation
     }
 }
